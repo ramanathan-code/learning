@@ -1,2 +1,2 @@
 # learning
-Learning Project
+Learning Project for tutorial purpose
